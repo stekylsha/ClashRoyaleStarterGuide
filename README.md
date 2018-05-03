@@ -1,0 +1,74 @@
+# Clash Royale Starter Guide
+## By way of introduction
+You got Clash Royale, but now what?  You've played the tutorial and are playing against real people, and getting crushed: three-crowned
+every game.  Well, it **feels** like every game.  It's not, because if it were every game, you'd have 0 crowns.
+
+## Glossary
+It's always a good idea to make sure everyone is speaking the same language.  To that end, we'll define a few things to make sure we're
+all on the same page.
+* Hitpoints
+  * The amount of damage something can take before it dies.
+* Damage
+  * The amount of damage something can inflict.
+* Direct damage
+  * Anything that can damage a tower directly: fireball, arrows, lightning, rocket, zap, etc.
+* Splash damage
+  * There are things that inflict damage on an area instead of just a single target.  That extra damage is known as *splash* damage.
+* King tower
+  * This is the tower in the middle and where the king lives.  When he does shoot, he doesn't shoot as far, do as much damage, or
+  as fast as the Princess towers.  The king tower has more 
+* Princess tower
+  * These are the two towers on the sides of the arena.  They guard the king tower and (hopefully) keep invaders from hitting it.
+* Troop cards
+  * Anything that moves in the direction of the opponent's towers.
+* Building cards
+  * Anything that is stationary
+* Spell cards
+  * Anything that's not a troop or a building.  Arrows, fireball, rocket, etc. are all spells.
+* Tanks
+  * Troops that can absorb a lot of damage.
+* Elixir
+  * The purple stuff that allows you to play your card.  90% of the game is elixir management.  Okay, maybe 80%.  When there is one
+  minute left in the game, elixir rate is doubled, meaning you get twice the elixir per second you did in the first two minutes.  Cool,
+  huh?  Well, your opponent is getting 2x elixir too.
+* Lanes
+  * There is a right lane and a left lane.  Troops have to go either right or left to get across the river in the middle of the arena.
+* Bridges
+  * There is a right bridge and a left bridge that troops have to cross to get into the river to the other side of the arena.
+
+## What not to do
+There are a couple of simple things that can make a world of difference.  We'll start with what *not* to do.
+1. Do not fireball, arrow, or damage in any way, the king tower
+  * The king tower doesn't join the fight until either a princess tower is destroyed or it takes damage.  Once it starts shooting too,
+  it makes taking the princess tower **much** more difficult.  And since it's very difficult to win the game without taking a princess
+  tower, this is a really Bad Idea.
+2. Do not fireball, arrow, or damage the princess tower unless you can either take the tower or kill something.
+3. Do not fireball, arrow, or damage tanks unless you can kill it or something near it.
+  * Tanks can absorb a lot of damage and even rocket won't phase them.  This is a waste of elixir leaving an angry giant walking toward
+  your tower and you have no elixir to stop it.
+4. Don't drop your ranged troops in front of, or in, your opponent's troops.
+  * Ranged troops like musketeer or archers, do better when something isn't pounding on them.  It may be the difference between getting
+  three shots off and two, or it may be the difference between having your tower taken.  Drop them far enough away the bad guys will
+  need to go to them, but close enough that they'll be able to hit them.  Yeah, it takes some practice.
+
+## What to do
+Again, a couple of things that can make a world of difference.  They're simple things, but some takeowere practice.
+1. Start your tanks, or troops, behind the king tower.
+  * By starting slow-moving troops behind the king tower, it gives you time to build up elixir by the time it reaches the bridge.  Why
+  is that important?
+2. Backup your tanks with support
+  * Tanks, by themselves, aren't great. They need support to help them along.  They really need a support *group*.  Giant?  Meh.  Giant
+  with witch, archers, and bomber behind him?  Deadly.  Except ...
+3. Don't bunch up your troops.
+  * If your opponent has fireball or some other direct damage card, your amazing attack is going to evaporate in a cloud of purple mist.
+  Better would be to space them out, or even ...
+4. Split your attack
+  * If you can, attack both lanes.  This causes your opponent to split their attack, and defense.
+5. Wait until the opponent's troops cross the bridge before attacking them.
+  * Once the troops cross the bridge, they are shot at by the princess tower.  The more things shooting at (or hitting) something,
+  the better.  If you attack them *before* they cross, it's just you against them.  *After* they cross, it's you and your big bad
+  princess tower against them.  2 against 1 is a fair fight, right?
+6. Distract
+7. Use your towers as a resource
+8. Be patient
+
