@@ -87,3 +87,7 @@ Again, a couple of things that can make a world of difference.  They're simple t
   witch or baby dragon won't kill your skeleton army or minions and **then** kill your tower.  Let it lock on to your tower (see #7)
   and then drop your defenders.
 
+## Gold and gems
+
+## Upgrading cards
+
