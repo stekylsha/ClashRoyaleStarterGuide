@@ -43,15 +43,15 @@ There are a couple of simple things that can make a world of difference.  We'll 
   * The king tower doesn't join the fight until either a princess tower is destroyed or it takes damage.  Once it starts shooting too,
   it makes taking the princess tower **much** more difficult.  And since it's very difficult to win the game without taking a princess
   tower, this is a really Bad Idea.
-2. Do not fireball, arrow, or damage the princess tower unless you can either take the tower or kill something.
-3. Do not fireball, arrow, or damage tanks unless you can kill it or something near it.
+1. Do not fireball, arrow, or damage the princess tower unless you can either take the tower or kill something.
+1. Do not fireball, arrow, or damage tanks unless you can kill it or something near it.
   * Tanks can absorb a lot of damage and even rocket won't phase them.  This is a waste of elixir leaving an angry giant walking toward
   your tower and you have no elixir to stop it.
-4. Don't drop your ranged troops in front of, or in, your opponent's troops.
+1. Don't drop your ranged troops in front of, or in, your opponent's troops.
   * Ranged troops like musketeer, archers, or bomber, do better when something isn't pounding on them.  It may be the difference
   between getting three shots off and two, or it may be the difference between having your tower taken.  Drop them far enough away
   the bad guys will need to go to them, but close enough that they'll be able to hit them.  Yeah, it takes some practice.
-5. Don't drop high-elixir troops at the bridge/river.
+1. Don't drop high-elixir troops at the bridge/river.
   * You want to be able to support your troops and if you're out of elixir, you can't do that.  See #1 and #2 in **What to do**.
 
 ## What to do
@@ -59,30 +59,30 @@ Again, a couple of things that can make a world of difference.  They're simple t
 1. Start your tanks, or troops, behind the king tower.
   * By starting slow-moving troops behind the king tower, it gives you time to build up elixir by the time it reaches the bridge.  Why
   is that important?
-2. Backup your tanks with support
+1. Backup your tanks with support
   * Tanks, by themselves, aren't great. They need support to help them along.  They really need a support *group*.  Giant?  Meh.  Giant
   with witch, archers, and bomber behind him?  Deadly.  Except ...
-3. Don't bunch up your troops.
+1. Don't bunch up your troops.
   * If your opponent has fireball or some other direct damage card, your amazing attack is going to evaporate in a cloud of purple mist.
   Better would be to space them out, or even ...
-4. Split your attack
+1. Split your attack
   * If you can, attack both lanes.  This causes your opponent to split their attack, and defense.
-5. Wait until the opponent's troops cross the bridge before attacking them.
+1. Wait until the opponent's troops cross the bridge before attacking them.
   * Once the troops cross the bridge, they are shot at by the princess tower.  The more things shooting at (or hitting) something,
   the better.  If you attack them *before* they cross, it's just you against them.  *After* they cross, it's you and your big bad
   princess tower against them.  2 against 1 is a fair fight, right?
-6. Distract
+1. Distract
   * Use distractions when your opponent pushes.  The distraction can be something simple, like skeletons, or something really big,
   like a giant.  When you drop your distraction, it's usually best to drop it in the middle toward the river.  This will draw the
   attackers so both princess towers can shoot at them.
-  6a.  Kiting
+  1.  Kiting
     * A little more advanced distraction is to drop your distraction on *just the other side*
   of the middle and make the attackers follow your distraction.  This is called "**kiting**".  To do this though, you need a troop that
   only attacks buildings and you need to make sure the attacker locks on to your distraction.  It's not easy, but it's an amazing tactic.
-7. Use your towers as a resource
+1. Use your towers as a resource
   * The only tower hitpoint that really matters is the last one.  It's okay for your tower to take some damage in exchange for a
   counter-push.  Just ... keep an eye on it.
-8. Be patient
+1. Be patient
   * Just because you have enough elixir to play a card doesn't mean you should.  Wait, be patient, and let your elixir build up enough
   that you can drop two cards, or even three cards.  Did I mention elixir management?  If you play something everytime you have
   enough elixir, you leave yourself open, because you won't have enough elixir left to defend.
@@ -102,3 +102,5 @@ tournaments. A suffix to this it to wait until your cards are tournament level b
 ## Upgrading cards
 
 ## Clans
+
+1. Use your towers as a resource
