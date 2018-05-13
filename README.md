@@ -6,6 +6,8 @@ every game.  Well, it **feels** like every game.  It's not, because if it were e
 ## Glossary
 It's always a good idea to make sure everyone is speaking the same language.  To that end, we'll define a few things to make sure we're
 all on the same page.
+* Cards
+  * You probably know this, but these are the things you play to attack and defend.
 * Hitpoints
   * The amount of damage something can take before it dies.
 * Damage
@@ -97,10 +99,41 @@ to upgrade most of my commons to level 12.  I didn't have enough **gold** to upg
 epics are attainable without spending gold or gems.  I would suggest buying epics only if they're available and fit your decks, and spending gold or gems on other cards in the shop.
 
 Gems are useful, but wait until you're king tower level/xp level 8 or 9.  Once you reach xp 8, you can enter challenges and
-tournaments. A suffix to this it to wait until your cards are tournament level before entering a challenge.
+tournaments. A suffix to this it to wait until your cards are tournament level before entering a challenge. I learned this the
+hard way.
 
 ## Upgrading cards
+There are two schools of thought: upgrade everything and upgrade only the cards you play.  Upgrading everything is extremely expensive,
+but it gives you more options when it's time to build a deck.  Upgrading only the cards you play will help you advance more quickly,
+at the expense of flexibility.  There's also a hybid approach, where you only upgrade the cards you *think* you'll play.
+
+As you progress, you'll different cards from each arena.  Each card has its strength and weakness and there's usually a counter for
+every deck.  Some cards need to be at the correct level to work.  Others, do well whether they've been upgraded or not.
+
+It should be mentioned that when you upgrade cards, you also gain experience.  There is another way as well, which we will discuss
+shortly.
+
+## Chests and Quests
+Chests are your best source of cards, gold, and gems.  Open as many as you can, as often as you can, but I wouldn't recommend
+paying gems to open them.  You'll have better things to spend your gems on once you get to xp 8+.
+
+Having said that, the next best way to get cards, gold, and gems is from the daily quests.  The "Daily Gift" can (*and should*) be
+opened every four hours.  These are freebies; no purchase required.  The "Daily Quest" may or may not be something you can complete
+in a day.  Depending on your xp level, you will have from one and three quests active at a time.  Once you complete enough quests,
+you'll get a free chest.  Let me emphasize that: you'll get a _**free**_ chest.  The chest will be anything from a golden chest to
+a super-magical.  Did I mention it's free?
 
 ## Clans
+Join one.  Clans are your second best source of cards (number one being chests) and your best source of experience.  In a clan,
+you are able to request and donate cards to fellow clan-mates.  Requesting cards gets you cards.  Donating cards gets
+you *gold and experience*.  Yeah, you read that right: donating helps you as much as it helps your clan-mate.
 
-1. Use your towers as a resource
+Another benefit of being in a clan is the ability to play friendly battles without gaining or losing trophies.  This is helpful when
+changing decks and testing if that new killer deck truly is a new killer deck or a new not-so-killer deck.  Depending on your clan,
+you will be able to play against a variety of decks, testing how your deck will play in different circumstances.  This is also a great
+time to get suggestions and critiques for your deck and for your play style.  Again, depending on the clan, your clan-mates can help
+you with your deck and strategies.  If they can't, don't, or won't, it's time to find a new clan.
+
+The last benefit will come when you get to xp 8.  Clash Royale has "Clan Wars" which allows your clan to battle against other clans.  At
+the end of a two week season, everyone who participated gets a War Chest with cards, gold, and gems.  It's a blast to play with a
+payout at the end.  The better your clan does, the better the chest.
