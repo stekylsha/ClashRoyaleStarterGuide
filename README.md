@@ -76,7 +76,7 @@ Again, a couple of things that can make a world of difference.  They're simple t
   like a giant.  When you drop your distraction, it's usually best to drop it in the middle toward the river.  This will draw the
   attackers so both princess towers can shoot at them.
     1.  Kiting
-    1. A little more advanced distraction is to drop your distraction on *just the other side*
+        1. A little more advanced distraction is to drop your distraction on *just the other side*
   of the middle and make the attackers follow your distraction.  This is called "**kiting**".  To do this though, you need a troop that
   only attacks buildings and you need to make sure the attacker locks on to your distraction.  It's not easy, but it's an amazing tactic.
 1. Use your towers as a resource
@@ -86,7 +86,7 @@ Again, a couple of things that can make a world of difference.  They're simple t
     1. Just because you have enough elixir to play a card doesn't mean you should.  Wait, be patient, and let your elixir build up enough
   that you can drop two cards, or even three cards.  Did I mention elixir management?  If you play something everytime you have
   enough elixir, you leave yourself open, because you won't have enough elixir left to defend.
-  1. Once an attacker locks on to something they won't retarget until that target is gone. This includes the tower which means that nasty
+    1. Once an attacker locks on to something they won't retarget until that target is gone. This includes the tower which means that nasty
   witch or baby dragon won't kill your skeleton army or minions and **then** kill your tower.  Let it lock on to your tower (see #7)
   and then drop your defenders.
 
