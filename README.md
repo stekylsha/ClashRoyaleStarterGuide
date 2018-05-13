@@ -54,7 +54,7 @@ There are a couple of simple things that can make a world of difference.  We'll 
   between getting three shots off and two, or it may be the difference between having your tower taken.  Drop them far enough away
   the bad guys will need to go to them, but close enough that they'll be able to hit them.  Yeah, it takes some practice.
 1. Don't drop high-elixir troops at the bridge/river.
-    1. You want to be able to support your troops and if you're out of elixir, you can't do that.  See #1 and #2 in **What to do**.
+    1. You want to be able to support your troops and if you're out of elixir, you can't do that.  See #1 and #2 in **[What to do](README.md#what-to-do)**.
 
 ## What to do
 Again, a couple of things that can make a world of difference.  They're simple things, but some takeowere practice.
