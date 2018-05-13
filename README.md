@@ -32,9 +32,10 @@ all on the same page.
   minute left in the game, elixir rate is doubled, meaning you get twice the elixir per second you did in the first two minutes.  Cool,
   huh?  Well, your opponent is getting 2x elixir too.
 * Lanes
-  * There is a right lane and a left lane.  Troops have to go either right or left to get across the river in the middle of the arena.
+  * There is a right lane and a left lane.  Troops have to go either right or left to get across the river in the middle of the
+  arena.  The exception to this is flying troops and hog rider: hog rider is able to jump the river.
 * Bridges
-  * There is a right bridge and a left bridge that troops have to cross to get into the river to the other side of the arena.
+  * There is a right bridge and a left bridge that most troops have to cross to get into the river to the other side of the arena.
 
 ## What not to do
 There are a couple of simple things that can make a world of difference.  We'll start with what *not* to do.
@@ -47,9 +48,11 @@ There are a couple of simple things that can make a world of difference.  We'll 
   * Tanks can absorb a lot of damage and even rocket won't phase them.  This is a waste of elixir leaving an angry giant walking toward
   your tower and you have no elixir to stop it.
 4. Don't drop your ranged troops in front of, or in, your opponent's troops.
-  * Ranged troops like musketeer or archers, do better when something isn't pounding on them.  It may be the difference between getting
-  three shots off and two, or it may be the difference between having your tower taken.  Drop them far enough away the bad guys will
-  need to go to them, but close enough that they'll be able to hit them.  Yeah, it takes some practice.
+  * Ranged troops like musketeer, archers, or bomber, do better when something isn't pounding on them.  It may be the difference
+  between getting three shots off and two, or it may be the difference between having your tower taken.  Drop them far enough away
+  the bad guys will need to go to them, but close enough that they'll be able to hit them.  Yeah, it takes some practice.
+5. Don't drop high-elixir troops at the bridge/river.
+  * You want to be able to support your troops and if you're out of elixir, you can't do that.  See #1 and #2 in **What to do**.
 
 ## What to do
 Again, a couple of things that can make a world of difference.  They're simple things, but some takeowere practice.
@@ -75,10 +78,10 @@ Again, a couple of things that can make a world of difference.  They're simple t
   6a.  Kiting
     * A little more advanced distraction is to drop your distraction on *just the other side*
   of the middle and make the attackers follow your distraction.  This is called "**kiting**".  To do this though, you need a troop that
-  only attacks buildings and you need to make sure the attacker locks on to your distraction.
+  only attacks buildings and you need to make sure the attacker locks on to your distraction.  It's not easy, but it's an amazing tactic.
 7. Use your towers as a resource
-  * The only tower hitpoint that really matters is the last one.  It's okay for your tower to take some damage in exchange for taking
-  one of theirs.  Just ... keep an eye on it.
+  * The only tower hitpoint that really matters is the last one.  It's okay for your tower to take some damage in exchange for a
+  counter-push.  Just ... keep an eye on it.
 8. Be patient
   * Just because you have enough elixir to play a card doesn't mean you should.  Wait, be patient, and let your elixir build up enough
   that you can drop two cards, or even three cards.  Did I mention elixir management?  If you play something everytime you have
@@ -86,8 +89,4 @@ Again, a couple of things that can make a world of difference.  They're simple t
   * Once an attacker locks on to something they won't retarget until that target is gone. This includes the tower which means that nasty
   witch or baby dragon won't kill your skeleton army or minions and **then** kill your tower.  Let it lock on to your tower (see #7)
   and then drop your defenders.
-
-## Gold and gems
-
-## Upgrading cards
 
