@@ -90,3 +90,15 @@ Again, a couple of things that can make a world of difference.  They're simple t
   witch or baby dragon won't kill your skeleton army or minions and **then** kill your tower.  Let it lock on to your tower (see #7)
   and then drop your defenders.
 
+## Gold and gems
+Collect as much as you can of each.  No, really!  The general feeling, which I agree with, is don't buy common or rare cards in the
+shop.  It may seem like a good idea, but it's just a waste.  By the time I got to Hog Mountain (arena 10), I had enough common cards
+to upgrade most of my commons to level 12.  I didn't have enough **gold** to upgrade them though.  And now with epic Sunday, even
+epics are attainable without spending gold or gems.  I would suggest buying epics only if they're available and fit your decks, and spending gold or gems on other cards in the shop.
+
+Gems are useful, but wait until you're king tower level/xp level 8 or 9.  Once you reach xp 8, you can enter challenges and
+tournaments. A suffix to this it to wait until your cards are tournament level before entering a challenge.
+
+## Upgrading cards
+
+## Clans
